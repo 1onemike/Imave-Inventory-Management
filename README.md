@@ -5,4 +5,8 @@
 
 clone git repo\
 run npm install to install dependencies\
-run npm start.
+run npm start.\
+
+
+Admin Dashboard
+localhost:3000/admin
