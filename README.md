@@ -8,5 +8,5 @@ run npm install to install dependencies\
 run npm start.\
 
 
-Admin Dashboard
+Admin Dashboard:\
 localhost:3000/admin
